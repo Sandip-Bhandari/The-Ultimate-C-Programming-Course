@@ -16,6 +16,5 @@ int main(){
         printf("You cannot drive");
     }
 
-
     return 0;
 }

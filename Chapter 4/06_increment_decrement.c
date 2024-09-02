@@ -17,6 +17,5 @@ int main(){
     // i++ prints i first and then increments i (Post increment Operator)
     // ++i increments i first and then prints i (Post increment Operator)
 
-
     return 0;
 }

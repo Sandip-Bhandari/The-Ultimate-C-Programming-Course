@@ -18,6 +18,9 @@ int main(){
         case 4:
             printf("You entered 4\n");
             break;
+        case 5:
+            printf("You entered 5\n");
+            break;    
         default:
             printf("Nothing matched");
     }

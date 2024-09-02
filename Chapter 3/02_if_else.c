@@ -12,3 +12,15 @@ int main(){
     }
     return 0;
 }
+
+// #include <stdio.h>
+
+// int main(){
+//      int age = 17;
+//      if(age>=18){
+//         printf("You are eligible to vote\n");
+//      }else{
+//         printf("You are not eligible for vote");
+//          }
+//      return 0;
+// } 

@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+    // Ternary operator
     // condition ? expression-if-true : expression-if-false
     int a = 345;
     int b= 345452;
