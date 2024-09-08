@@ -8,7 +8,6 @@ int main(){
     printf("The address of i is %p\n", j);
     printf("The address of i is %p\n", &k);
 
-
     printf("The value at address j is %d\n", *j);
 
     return 0;

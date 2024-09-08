@@ -8,6 +8,7 @@ void swap(int* a, int* b){
     *a = *b;
     *b = temp;
 }
+
 int main(){
     int a = 4, b = 6;
     swap(&a, &b);
