@@ -12,4 +12,5 @@ int main(){
     printf("The address of i is %u\n", &i); 
     returning_5(ptr);
     return 0;
+    
 }

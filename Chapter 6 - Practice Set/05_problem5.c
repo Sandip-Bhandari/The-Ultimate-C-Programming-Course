@@ -27,4 +27,5 @@ int main(){
     printf("The address of sum is %u and of average is %u", ptr1, ptr2 );
 
     return 0;
+    
 }
