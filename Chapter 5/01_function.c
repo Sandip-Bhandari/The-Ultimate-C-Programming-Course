@@ -37,3 +37,38 @@ int main(){
 
     return 0;
 }
+
+
+//! Online C compiler to run C program online
+// #include <stdio.h>
+// int sum( int, int);
+//     int sum(int a,int b){
+//         printf("The sum of %d and %d is %d \n",a , b, (a+b));
+//     }
+// int product(int, int);
+//     int product(int a, int b){
+//         printf("The product of %d and %d is %d \n", a, b, (a*b));
+//     }
+// float Substraction(int, int);
+//     float Substraction(int a, int b){
+//         printf("The Substraction of %d and %d is %d \n", a, b, (a-b));
+//     }
+// int division(int, int);
+//     int division(int a, int b){
+//         printf("The division of %d and %d is %d \n", a, b, (a/b));
+//     }
+// int main() {
+//     int x, y;
+//     printf("Enter value of X: ");
+//     scanf("%d",&x);
+//     printf("Enter value of Y: ");
+//     scanf("%d",&y);
+    
+//     sum(x,y);
+//     product(x,y);
+//     Substraction(x,y);
+//     division(x,y);
+    
+    
+//     return 0;
+// }

@@ -1,3 +1,5 @@
+//?? Q). Use the library Function to calculate the area of a square with side a.
+
 #include <stdio.h>
 #include <math.h>
 

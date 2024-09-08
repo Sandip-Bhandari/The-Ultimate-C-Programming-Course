@@ -1,0 +1,1 @@
+ printf("The value at address j is %d\n", *(&i));
